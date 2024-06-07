@@ -1,3 +1,5 @@
+<img src="./smart-note-app.png" width="128"/>
+
 ### Task 1. Smart Notes application interface
 In the notes_main.py file, describe the Smart Notes application interface. To do this:
 
