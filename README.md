@@ -1,6 +1,7 @@
+### Task 1. Smart Notes application interface
+
 <img src="./smart-note-app.png" width="900"/>
 
-### Task 1. Smart Notes application interface
 In the notes_main.py file, describe the Smart Notes application interface. To do this:
 
 1. Import the PyQt5 library and the necessary widgets. If you have any difficulties, look at how it was done in the previous Memory Card project.
