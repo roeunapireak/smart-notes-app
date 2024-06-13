@@ -31,3 +31,8 @@ Program note searching by tag. To do this, create the search_note function. Impl
 
 Note. If this task is too difficult, use the tip.
 
+### Task5. 
+Once users click create note botton, app will pop up Input Dialog.
+<img src="./QInputDialog.png" width="900"/>
+
+
