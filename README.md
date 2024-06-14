@@ -31,8 +31,14 @@ Program note searching by tag. To do this, create the search_note function. Impl
 
 Note. If this task is too difficult, use the tip.
 
-### Task5. 
-Once users click create note botton, app will pop up Input Dialog.
+### Task 5. Editing notes
+Program note editing: create new notes, save typed note text, and delete notes from the list. To do this:
+1) Create the add_note, del_note, and save_note functions. Remember to make changes not only to the notes list, but also to the notes_data.json file and data widgets.
+2) Process the clicking on the "Create note," "Save note," and "Delete note" widget buttons with the written functions.
+
 <img src="./QInputDialog.png" width="900"/>
 
-
+### Task 6. Working with tags
+Program searching notes by tag. To do this, create the search_note function. Implement branching in the function:
+1) If the "Search by tag" button is pressed, notes with that tag should be run. The result — a dictionary of filtered notes — should appear instead of the full dictionary in list_notes. After the search, the button name should change to "Reset Search."
+2) If the "Reset Search" button is pressed, the tag input field should be cleared and the complete notes dictionary should be displayed again. After resetting the results, the button name should change to "Search by tag."
