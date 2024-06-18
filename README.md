@@ -12,14 +12,11 @@
 
 Download `git clone https://github.com/roeunapireak/smart-notes-app.git`
 
-checking python package version
-`pip --version`
+Checking python package version `pip --version`
 
-install pyqt5 module
-`pip install pyqt5`
+Tnstall pyqt5 module `pip install pyqt5`
 
-to run application
-`python {data dir}/smart-notes-app/releases/{version}/smart-note-app.py`
+To run application `python {data dir}/smart-notes-app/releases/{version}/smart-note-app.py`
 
 
 
