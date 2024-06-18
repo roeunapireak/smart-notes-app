@@ -1,7 +1,7 @@
 ### Product Roadmap
 #### marjor version (yearly)
     1.x.x 
-<a href="https://github.com/roeunapireak/smart-notes-app/tree/main/releases/1.0.0" title="Download" download>Download</a>
+[Download Minion](https://octodex.github.com/images/minion.png "download")
 
 #### Release note (every half of year)
     1.0.x
