@@ -1,3 +1,13 @@
+### Version
+#### marjor version
+    1.x.x
+#### Release note
+    1.0.x
+#### patch update
+    1.0.0
+    1.0.1
+
+
 ### Quick Start
 #### open terminal
 
