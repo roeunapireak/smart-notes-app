@@ -1,6 +1,7 @@
 ### Product Roadmap
 #### marjor version (yearly)
-    1.x.x
+    1.x.x <a href="https://github.com/roeunapireak/smart-notes-app/tree/main/releases/1.0.0" title="Download" download>Download</a>
+
 #### Release note (every half of year)
     1.0.x
 #### patch update (monthly)
