@@ -1,5 +1,4 @@
 ### Product Roadmap
-[Download 1.0.0](https://github.com/roeunapireak/smart-notes-app/tree/main/releases/1.0.0 "download")
 #### marjor version (yearly)
 1.x.x 
 #### Release note (every half of year)
@@ -10,6 +9,8 @@
 
 ### Quick Start
 #### open terminal
+
+Download `git clone https://github.com/roeunapireak/smart-notes-app.git`
 
 checking python package version
 `pip --version`
