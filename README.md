@@ -4,7 +4,8 @@
     1.x.x 
 #### Release note (every half of year)
     1.0.x
-    1.1.0 (demo)
+    1.1.0 (demo) 
+        - working with multiple text file
 ##### patch update (monthly)
     1.0.1
 
