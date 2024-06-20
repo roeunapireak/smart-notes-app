@@ -1,8 +1,9 @@
 ### Product Roadmap
-#### marjor version (yearly)
+## marjor version (yearly)
 1.x.x 
-#### Release note (every half of year)
+### Release note (every half of year)
 1.0.x
+1.1.0 (demo)
 #### patch update (monthly)
 1.0.1
 
